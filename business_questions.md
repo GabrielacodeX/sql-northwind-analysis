@@ -26,6 +26,5 @@ ON customers.CustomerID = orders.CustomerID;
 
 Query executed successfully in MySQL Workbench.
 
-![Customer Orders](screenshots/customer-orders-result.png)
 
 <img width="1505" height="943" alt="customer-orders-result" src="https://github.com/user-attachments/assets/a9756b4e-443f-4b9b-ae30-2372c3351624" />
